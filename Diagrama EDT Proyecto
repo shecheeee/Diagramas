@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-07T01:38:03.933Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.438" etag="k_UhZx6eGE0smDZ4ssJM" version="14.6.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-07T01:39:11.072Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.438" etag="ABxW8biJy4uCiVMxRmY0" version="14.6.10" type="github">
   <diagram id="fmlrI1wvccAmtbTRsKKJ" name="Page-1">
     <mxGraphModel dx="868" dy="1631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -151,7 +151,7 @@
         <mxCell id="t-emFHFzMPoBLD8UbpKK-58" value="Entrega del software" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="-880" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="t-emFHFzMPoBLD8UbpKK-59" value="Entrega del software" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="t-emFHFzMPoBLD8UbpKK-59" value="Posible mantención" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="-800" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
