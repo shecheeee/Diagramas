@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-07T00:59:35.293Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.438" etag="9fE7TpU-Yg_NTE79N_mm" version="14.6.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-07T01:20:40.476Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.438" etag="XkXnPywLWF7IdB_FQk1s" version="14.6.10" type="github">
   <diagram id="NNIor3szDe7XDO7HOZuT" name="Page-1">
     <mxGraphModel dx="868" dy="1631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,6 +11,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u-ZR0h0qj-iUnPuv97az-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u-ZR0h0qj-iUnPuv97az-1" target="u-ZR0h0qj-iUnPuv97az-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u-ZR0h0qj-iUnPuv97az-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="u-ZR0h0qj-iUnPuv97az-1" target="u-ZR0h0qj-iUnPuv97az-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u-ZR0h0qj-iUnPuv97az-1" value="Sistema fundación apoyo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -60,9 +63,6 @@
         </mxCell>
         <mxCell id="u-ZR0h0qj-iUnPuv97az-13" value="Finanzas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="130" width="150" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="u-ZR0h0qj-iUnPuv97az-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="u-ZR0h0qj-iUnPuv97az-14" target="u-ZR0h0qj-iUnPuv97az-1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u-ZR0h0qj-iUnPuv97az-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u-ZR0h0qj-iUnPuv97az-14" target="u-ZR0h0qj-iUnPuv97az-23">
           <mxGeometry relative="1" as="geometry" />
